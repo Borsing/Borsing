@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin Robert</h1>
 <h3 align="center">Backend software engineer in Luxembourg</h3>
+<p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQyeWFyYWZ3eXZ5dW42MHZ4YmNiZ3lzNmx3dWI0a3owa2l3ejRhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=borsing&label=Profile%20views&color=0e75b6&style=flat" alt="borsing-me" /> </p>
 
 - 🔭 I’m currently working in **MarketLeap, an e-commerce operating system for digitally native brands.**
